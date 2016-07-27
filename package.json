@@ -4,10 +4,10 @@
   "version": "1.0.2",
   "main": "lib/engine_mustache.js",
   "dependencies": {
-    "mustache": "^2.2.0"
+    "hogan.js": "^3.0.2",
+    "json5": "^0.5.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "keywords": [
     "Pattern Lab",
     "Atomic Web Design",
