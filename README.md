@@ -1,3 +1,5 @@
+[📢 Archived in favor of https://github.com/pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node)
+
 # The Mustache engine for Pattern Lab / Node
 
 ## Installing
